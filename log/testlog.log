@@ -1,0 +1,136 @@
+2021-02-04 21:32:51,230 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-04 21:32:54,609 - logger_File -INFO - Retail page is opened
+2021-02-04 21:32:54,614 - logger_File -INFO - Page title  is verified
+2021-02-04 21:32:55,745 - logger_File -INFO - Search functionality Test case   failed
+2021-02-04 21:36:51,706 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-02-04 21:36:55,014 - logger_File -INFO - Retail page is opened
+2021-02-04 21:36:55,021 - logger_File -INFO - Page title  is verified
+2021-02-04 21:36:55,572 - logger_File -INFO - User click on My Account
+2021-02-04 21:36:55,794 - logger_File -INFO - User click on Login
+2021-02-04 21:36:59,214 - logger_File -INFO - User enter email address
+2021-02-04 21:36:59,260 - logger_File -INFO - User enter password
+2021-02-04 21:36:59,968 - logger_File -INFO - User click on Login button
+2021-02-04 21:37:15,323 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-04 21:37:18,234 - logger_File -INFO - Retail page is opened
+2021-02-04 21:37:18,238 - logger_File -INFO - Page title  is verified
+2021-02-04 21:37:18,793 - logger_File -INFO - User click on My Account
+2021-02-04 21:37:19,000 - logger_File -INFO - User click on Login
+2021-02-04 21:37:22,418 - logger_File -INFO - User enter email address
+2021-02-04 21:37:22,468 - logger_File -INFO - User enter password
+2021-02-04 21:37:23,170 - logger_File -INFO - User click on Login button
+2021-02-04 21:37:27,159 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2021-02-04 21:37:27,161 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-04 21:37:29,302 - logger_File -INFO - Retail page is opened
+2021-02-04 21:37:29,321 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-04 21:37:31,545 - logger_File -INFO - Retail page is opened
+2021-02-04 21:38:38,399 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-04 21:38:41,612 - logger_File -INFO - Retail page is opened
+2021-02-04 21:38:41,617 - logger_File -INFO - Page title  is verified
+2021-02-04 21:38:42,760 - logger_File -INFO - Search functionality Test case   failed
+2021-02-04 21:40:28,793 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-04 21:40:31,984 - logger_File -INFO - Retail page is opened
+2021-02-04 21:40:31,990 - logger_File -INFO - Page title  is verified
+2021-02-04 21:40:32,567 - logger_File -INFO - User entered value in search bar
+2021-02-04 21:40:33,432 - logger_File -INFO - User clicked on search button
+2021-02-04 21:40:33,871 - logger_File -INFO - iPhone image is displayed
+2021-02-04 21:40:34,476 - logger_File -INFO - Search functionality Test case   passed
+2021-02-16 11:06:58,985 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-16 11:07:03,190 - logger_File -INFO - Retail page is opened
+2021-02-16 11:07:03,199 - logger_File -INFO - Page title  is verified
+2021-02-16 11:07:03,811 - logger_File -INFO - User click on My Account
+2021-02-16 11:07:04,433 - logger_File -INFO - Register an Account test case   undefined
+2021-02-16 11:47:37,842 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-02-16 11:47:42,146 - logger_File -INFO - Retail page is opened
+2021-02-16 11:47:42,152 - logger_File -INFO - Page title  is verified
+2021-02-16 11:47:42,748 - logger_File -INFO - User click on My Account
+2021-02-16 11:47:45,352 - logger_File -INFO - User click on Login
+2021-02-16 11:47:48,822 - logger_File -INFO - User enter email address
+2021-02-16 11:47:48,862 - logger_File -INFO - User enter password
+2021-02-16 11:47:51,095 - logger_File -INFO - User click on Login button
+2021-02-16 11:47:55,104 - logger_File -INFO - Login to MyAccount   passed
+2021-02-16 11:47:55,106 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-16 11:47:59,840 - logger_File -INFO - Retail page is opened
+2021-02-16 11:47:59,845 - logger_File -INFO - Page title  is verified
+2021-02-16 11:48:00,444 - logger_File -INFO - User click on My Account
+2021-02-16 11:48:01,393 - logger_File -INFO - User click on Login
+2021-02-16 11:48:04,831 - logger_File -INFO - User enter email address
+2021-02-16 11:48:04,872 - logger_File -INFO - User enter password
+2021-02-16 11:48:07,254 - logger_File -INFO - User click on Login button
+2021-02-16 11:48:11,442 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2021-02-16 11:48:11,444 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-16 11:48:17,382 - logger_File -INFO - Retail page is opened
+2021-02-16 11:48:17,387 - logger_File -INFO - Page title  is verified
+2021-02-16 11:48:17,988 - logger_File -INFO - User click on My Account
+2021-02-16 11:48:18,901 - logger_File -INFO - User click on Login
+2021-02-16 11:48:22,363 - logger_File -INFO - User enter email address
+2021-02-16 11:48:22,405 - logger_File -INFO - User enter password
+2021-02-16 11:48:26,829 - logger_File -INFO - User click on Login button
+2021-02-16 11:48:42,241 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-16 11:48:57,886 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-16 11:49:02,907 - logger_File -INFO - Retail page is opened
+2021-02-16 11:49:02,914 - logger_File -INFO - Page title  is verified
+2021-02-16 11:49:03,510 - logger_File -INFO - User click on My Account
+2021-02-16 11:49:04,533 - logger_File -INFO - User clicked on Register option
+2021-02-16 11:49:05,196 - logger_File -INFO - Register an Account test case   failed
+2021-02-16 11:51:18,103 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-16 11:51:22,107 - logger_File -INFO - Retail page is opened
+2021-02-16 11:51:22,113 - logger_File -INFO - Page title  is verified
+2021-02-16 11:51:22,724 - logger_File -INFO - User click on My Account
+2021-02-16 11:51:24,268 - logger_File -INFO - User clicked on Register option
+2021-02-16 11:51:24,563 - logger_File -INFO - User filled the information form
+2021-02-16 11:51:25,046 - logger_File -INFO - User check privacy and policy
+2021-02-16 11:51:28,008 - logger_File -INFO - User clicked on Continue button
+2021-02-16 11:52:01,471 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-16 11:52:06,729 - logger_File -INFO - Retail page is opened
+2021-02-16 11:52:06,735 - logger_File -INFO - Page title  is verified
+2021-02-16 11:52:07,296 - logger_File -INFO - User click on My Account
+2021-02-16 11:52:09,431 - logger_File -INFO - User clicked on Register option
+2021-02-16 11:52:09,724 - logger_File -INFO - User filled the information form
+2021-02-16 11:52:10,203 - logger_File -INFO - User check privacy and policy
+2021-02-16 11:52:13,268 - logger_File -INFO - User clicked on Continue button
+2021-02-16 11:52:13,681 - logger_File -INFO - Account was created successfully
+2021-02-16 11:52:14,322 - logger_File -INFO - Register an Account test case   passed
+2021-02-16 18:52:57,217 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-16 18:52:59,053 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-16 18:52:59,668 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-16 18:54:08,983 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-16 18:54:10,748 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-16 18:54:11,367 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-16 19:00:49,011 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-02-16 19:00:52,722 - logger_File -INFO - Retail page is opened
+2021-02-16 19:00:52,731 - logger_File -INFO - Page title  is verified
+2021-02-16 19:00:53,389 - logger_File -INFO - User click on My Account
+2021-02-16 19:00:53,619 - logger_File -INFO - User click on Login
+2021-02-16 19:01:09,017 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-16 19:01:10,081 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-16 19:01:11,892 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-16 19:01:12,320 - logger_File -INFO - Retail page is opened
+2021-02-16 19:01:12,325 - logger_File -INFO - Page title  is verified
+2021-02-16 19:01:12,504 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-16 19:01:12,935 - logger_File -INFO - User click on My Account
+2021-02-16 19:01:13,180 - logger_File -INFO - User click on Login
+2021-02-16 19:01:28,603 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-16 19:01:31,724 - logger_File -INFO - Retail page is opened
+2021-02-16 19:01:31,729 - logger_File -INFO - Page title  is verified
+2021-02-16 19:01:32,305 - logger_File -INFO - User click on My Account
+2021-02-16 19:01:32,544 - logger_File -INFO - User click on Login
+2021-02-16 19:01:41,879 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-16 19:01:43,641 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-16 19:01:44,253 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-16 19:01:47,935 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-16 19:01:51,169 - logger_File -INFO - Retail page is opened
+2021-02-16 19:01:51,174 - logger_File -INFO - Page title  is verified
+2021-02-16 19:01:51,780 - logger_File -INFO - User click on My Account
+2021-02-16 19:01:52,005 - logger_File -INFO - User click on Login
+2021-02-16 19:04:29,602 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-16 19:04:31,373 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-16 19:04:31,976 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-16 19:18:56,956 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-16 19:18:58,722 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-16 19:18:59,313 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-16 19:32:57,919 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-16 19:32:59,773 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-16 19:32:59,792 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-16 19:32:59,815 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-16 19:32:59,816 - logger_File -INFO - Database connection has been closed
+2021-02-16 19:33:00,435 - logger_File -INFO - Execute all information from Actor Table   passed
